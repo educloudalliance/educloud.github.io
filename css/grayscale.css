@@ -349,15 +349,15 @@ body {
 }
 
 .text2 {
-    font-size:2em;
+    font-size:1.5em;
 }
 
 .three-cols {
-    width:930px;
+    width:900px;
 }
 
 .one-col {
-    width:300px;
+    width:270px;
     float:left;
     margin-right:20px;
     border:solid 1px #eee;
