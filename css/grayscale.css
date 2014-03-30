@@ -114,7 +114,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color: #ddd;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -130,7 +130,7 @@ a:focus {
     text-align: center;
     color: #fff;
 //    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -248,7 +248,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
