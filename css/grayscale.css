@@ -357,6 +357,7 @@ body {
 }
 
 .one-col {
+    padding-top:20px;
     width:270px;
     min-height:300px;
     float:left;
