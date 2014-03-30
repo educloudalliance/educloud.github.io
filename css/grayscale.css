@@ -358,6 +358,7 @@ body {
 
 .one-col {
     width:270px;
+    min-height:300px;
     float:left;
     margin-right:20px;
     border:solid 1px #eee;
